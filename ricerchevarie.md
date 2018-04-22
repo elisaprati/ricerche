@@ -4,3 +4,10 @@
 <br>
 [Messa di Voce, Golan Levin e Zach Lieberman](https://www.youtube.com/watch?v=STRMcmj-gHc) 
 <br>
+
+____
+[+](http://www.creativeapplications.net/featured/visual-complexity-mapping-patterns-of-information-books/)<br>
+
+_____
+UTILITIES:
+[Basil.js - Progettazione computazionale e generativa con Adobe InDesign](http://www.creativeapplications.net/scripts/basil-js-computational-and-generative-design-using-adobe-indesign/) <br>
