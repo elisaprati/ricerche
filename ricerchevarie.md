@@ -11,3 +11,7 @@ ____
 _____
 UTILITIES:
 [Basil.js - Progettazione computazionale e generativa con Adobe InDesign](http://www.creativeapplications.net/scripts/basil-js-computational-and-generative-design-using-adobe-indesign/) <br>
+
+_____
+AR
+[MIT](http://www.creativeapplications.net/arduino-2/the-reality-editor-networking-functional-relationships-between-physical-objects/)
